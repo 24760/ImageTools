@@ -25,3 +25,6 @@
 [submodule "சுட்டுஒட்டு"]
 	path = சுட்டுஒட்டு
 	url = https://github.com/247i/Shotcut.git
+[submodule "நிழற்படத்தொடர்"]
+	path = நிழற்படத்தொடர்
+	url = https://github.com/247i/PhotoFilmStrip.git
