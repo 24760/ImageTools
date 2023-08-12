@@ -6,7 +6,7 @@
 - git submodule add https://github.com/247i/Inkscape.git மைசுமப்பவன்
 - git submodule add https://github.com/247i/Pencil32.git எழுதுகோல்32 
 - git submodule add https://github.com/247i/Pencil64.git எழுதுகோல்64 
-- git submodule add https://github.com/247i/PhotoFlimStrip.git நிழற்படத்தொடர் 
+- git submodule add https://github.com/247i/PhotoFilmStrip.git நிழற்படத்தொடர் 
 - git submodule add https://github.com/247i/PicPick.git படதேர்வு
 - git submodule add https://github.com/247i/Ponvizhi.git பொன்விழி
 - git submodule add https://github.com/247i/Shotcut.git சுட்டுஒட்டு
