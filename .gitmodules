@@ -1,0 +1,27 @@
+[submodule "அணிஉரு"]
+	path = அணிஉரு
+	url = https://github.com/247i/AniFX.git
+[submodule "சித்திரம்"]
+	path = சித்திரம்
+	url = https://github.com/247i/Dia.git
+[submodule "குபகைதி"]
+	path = குபகைதி
+	url = https://github.com/247i/GIMP.git
+[submodule "மைசுமப்பவன்"]
+	path = மைசுமப்பவன்
+	url = https://github.com/247i/Inkscape.git
+[submodule "படதேர்வு"]
+	path = படதேர்வு
+	url = https://github.com/247i/PicPick.git
+[submodule "பொன்விழி"]
+	path = பொன்விழி
+	url = https://github.com/247i/Ponvizhi.git
+[submodule "எழுதுகோல்"]
+	path = எழுதுகோல்
+	url = https://github.com/247i/Pencil.git
+[submodule "டுக்சுவண்ணப்பூச்சு"]
+	path = டுக்சுவண்ணப்பூச்சு
+	url = https://github.com/247i/TuxPaint.git
+[submodule "சுட்டுஒட்டு"]
+	path = சுட்டுஒட்டு
+	url = https://github.com/247i/Shotcut.git
