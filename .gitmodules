@@ -28,3 +28,6 @@
 [submodule "நிழற்படத்தொடர்"]
 	path = நிழற்படத்தொடர்
 	url = https://github.com/247i/PhotoFilmStrip.git
+[submodule "தோழர்களே"]
+	path = தோழர்களே
+	url = https://github.com/247i/Fyre.git
