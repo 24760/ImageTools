@@ -1,5 +1,4 @@
 # படகருவிகள்
-
 - git submodule add https://github.com/247i/AniFX.git அணிஉரு 
 - git submodule add https://github.com/247i/Dia.git சித்திரம்
 - git submodule add https://github.com/247i/Fyre.git தோழர்களே
@@ -12,4 +11,3 @@
 - git submodule add https://github.com/247i/Ponvizhi.git பொன்விழி
 - git submodule add https://github.com/247i/Shotcut.git சுட்டுஒட்டு
 - git submodule add https://github.com/247i/TuxPaint.git டுக்சுவண்ணப்பூச்சு
-
