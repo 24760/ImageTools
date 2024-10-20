@@ -31,12 +31,6 @@
 [submodule "தோழர்களே"]
 	path = தோழர்களே
 	url = https://github.com/247i/Fyre.git
-[submodule "எழுதுகோல்32"]
-	path = எழுதுகோல்32
-	url = https://github.com/247i/Pencil32.git
-[submodule "எழுதுகோல்64"]
-	path = எழுதுகோல்64
-	url = https://github.com/247i/Pencil64.git
 [submodule "சின்னமுரு"]
 	path = சின்னமுரு
 	url = https://github.com/247i/IcoFx3.git
